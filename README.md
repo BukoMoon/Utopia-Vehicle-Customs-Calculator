@@ -1,7 +1,5 @@
 # Utopia-Vehicle-Customs-Calculator
 
-This was a programming assignment for University.
-
 
 Task:
 
